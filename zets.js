@@ -720,11 +720,6 @@ rows: [
 "rowId": `${prefix}animemenu`
 },
 {
-"title": "[🔞️] NSFW MENU",
-"description": `Display A List Of Nsfw 18+ Features`,
-"rowId": `${prefix}nsfwmenu`
-},
-{
 "title": "[🕊️] STICKER MENU",
 "description": `Display A List Of Sticker Features`,
 "rowId": `${prefix}stickermenu`
